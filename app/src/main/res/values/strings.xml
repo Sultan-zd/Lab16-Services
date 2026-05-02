@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chronomètre Pro</string>
+    <string name="label_elapsed_time">TEMPS ÉCOULÉ</string>
+    <string name="btn_start">Démarrer le Chronomètre</string>
+    <string name="btn_stop">Arrêter et Réinitialiser</string>
+    <string name="notification_title">Chronomètre en cours</string>
+    <string name="notification_channel_name">Service de Chronomètre</string>
+    <string name="default_time">00:00</string>
+</resources>
